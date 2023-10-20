@@ -68,3 +68,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+                   -------------------------start--------------------
+
+this is the sample crud operation using react and json server
+
+using tools
+1 react
+2 react-router-dom
+3 bootstrap
+4 json server
+
+then import the bootstrap file in indux.js file
+ex :- import '../node_modules/bootstrap/dist/css/bootstrap.css';
+run cmd :-
+npm start -for frontend
+npm run json-server - for server
+
+
